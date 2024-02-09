@@ -1,6 +1,6 @@
 # M1GiveFndr
 ## About script
-### Giveaway Finder - automation script for M1. It will make it easy for you to monitor the chat for various giveaways. AssKiss Studio is not responsible for any improper use of the script
+#### Giveaway Finder - automation script for M1. It will make it easy for you to monitor the chat for various giveaways. AssKiss Studio is not responsible for any improper use of the script
 ## Config
 ### What can be changed in config.txt:
 ### -Email and password
