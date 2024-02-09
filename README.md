@@ -4,7 +4,7 @@
 ## Config
 ### What can be changed in config.txt:
 ### -Email and password
-### -Keywords(required)
+### -Keywords(tilde)(required)
 ### -Tg chat ID(required)
 ## System Requirements
 ### OS: Windows 7/8/10/11(You may need to install python 3.*.*)
