@@ -10,6 +10,6 @@
 #### 3. Enter your M1 account email and password(or load them from config.txt)/token(for developers)
 #### 4. Enter maximum level if you want to sort profiles by level, otherwise enter "0"
 #### 4.1. If you if you have enabled sorting by level, enter maximum games count if you want to sort profiles by games, otherwise enter "0"
-
+#### 5. If you want to enable autoresponse to giveaways, enter "1"
 
 
