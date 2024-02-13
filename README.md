@@ -7,7 +7,7 @@
 ### -Keywords(tilde)(required)
 ### -Tg chat ID(required)
 ## System Requirements
-### OS: Windows 7/8/10/11(You may need to install python 3.*.*)
+### OS: Windows 7/8/10/11
 ### Internet connection required
 ## How to use:
 ### 1. Download executable from "Releases"
